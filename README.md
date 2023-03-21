@@ -3,6 +3,8 @@
 - 🔭 Sou Engenheiro Mecatrônico
 - 🌱 Estou aprendendo Typescript
   😄 3º período de Sistemas pra Internet
+  😄 Residência de Robótica e Inteligência Artificial na UFPE
+  
 <br>
  
 <div align="center">
