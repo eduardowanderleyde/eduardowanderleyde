@@ -21,11 +21,6 @@
   <img align="middle" alt="Edu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
- 
- <div>
-<div align="middle">
-    <a align="left" href="https://picasion.com/"><img src="https://i.picasion.com/pic92/4aec6b9f34944f5da1e6e0e86c64e96c.gif" width="140" height="200" border="600" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
- </div>
   
    <div align="center">
    <a href="https://instagram.com/eduardovvanda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
