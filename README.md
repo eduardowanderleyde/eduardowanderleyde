@@ -2,8 +2,7 @@
 
 - 🔭 I'm a Frontend Engineer
 - 🌱 I'm learning Typescript
-  😄 3rd semester of Internet Systems
-  😄 Residency in Robotics and Artificial Intelligence at UFPE
+- 😄 Specialist in Robotics and Artificial Intelligence at UFPE
   
 <br>
  
