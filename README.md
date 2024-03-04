@@ -1,6 +1,7 @@
 ### Hello, I'm Eduardo Wanderley 👋, a programming and technology content creator!
 
 - 🔭 I'm a Full-Stack Engineer
+- Master's Degree in Sofware Engineering
 - 😄 Specialist in Robotics and Artificial Intelligence at UFPE
 
 - Programming Skills: React.js ·Typescript· Flutter · Python · HTML · CSS · NODE.js Web/Socket ·Vercel· GraphQL · Flutter · GIT
