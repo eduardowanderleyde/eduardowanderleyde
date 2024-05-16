@@ -1,6 +1,6 @@
 ### Hello, I'm Eduardo Wanderley 👋, a programming and technology content creator!
 
-- 🔭 I'm a Web Developer
+- 🔭 I'm a Web Developer focused on Ruby On Rails framework to make different Websites Projects
 - Master's Degree in Sofware Engineering at UFPE 
 - 😄 Specialist in Robotics and Artificial Intelligence at UFPE
 
