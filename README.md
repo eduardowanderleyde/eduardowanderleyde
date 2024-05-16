@@ -1,8 +1,11 @@
 ### Hello, I'm Eduardo Wanderley 👋, a programming and technology content creator!
+  
 
-- 🔭 I'm a Web Developer focused on Ruby On Rails framework to make different Websites Projects
+- 🔭 I'm a Web Developer from Recife, Brazil, with a degree in mechatronic engineer focused on new technologies, frameworks and robotics.
+- I'm a friendly person who wants to share information and make projects happen. Send me an email to schedule a meeting: wanderley.eduardo@gmail.com
 - Master's Degree in Sofware Engineering at UFPE 
 - 😄 Specialist in Robotics and Artificial Intelligence at UFPE
+
 
 - Programming Skills: Ruby on Rails · NODE.js · Python · HTML · CSS · Web/Socket ·Vercel· GraphQL · Flutter · Dart · GIT
   
