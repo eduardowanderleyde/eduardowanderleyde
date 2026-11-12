@@ -3,7 +3,7 @@
 # Hi, I'm Eduardo Wanderley 👋
 
 <a href="https://github.com/eduardowanderleyde">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%C2%B7+LLM+Agents+%26+RAG;Local-first+AI+with+Ollama;Data+pipelines+with+Airflow+%2B+Spark;Pipelines+with+Airflow+%2B+Spark;Tools+for+mobile+robots+(ROS+2)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Engineer;LLM+Agents+%26+RAG;Local-first+AI+with+Ollama;Data+pipelines+with+Airflow+%2B+Spark;Pipelines+with+Airflow+%2B+Spark;Tools+for+mobile+robots+(ROS+2)" alt="Typing SVG" />
 </a>
 
 <p>
@@ -21,7 +21,7 @@
 ```python
 class Eduardo:
     location   = "Recife, Brazil 🇧🇷"
-    role       = ["AI Engineer", "Data Engineer", "Robotics"]
+    role       = ["AI & Data Engineer", "Robotics"]
     work       = "Data & automation @ Empetur (Government of Pernambuco)"
     education  = ["M.Sc. Computer Science — UFPE (2026)",
                   "Postgrad Robotics & AI — UFPE (2023)",
