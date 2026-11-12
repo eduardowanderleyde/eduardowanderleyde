@@ -47,7 +47,7 @@ Attack detection for Linux servers built as a data pipeline — **running in pro
 <td width="50%" valign="top">
 
 #### 🤖 [fleet-ai](https://github.com/eduardowanderleyde/fleet-ai)
-Robot-fleet orchestration from natural-language missions: *“move tb1 to the loading dock”*.
+Robot-fleet orchestration from natural-language missions: *“move tb1 to the loading dock”*. Deterministic planner today; local LLM (Ollama) under evaluation.
 
 ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
