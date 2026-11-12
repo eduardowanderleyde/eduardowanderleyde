@@ -3,7 +3,7 @@
 # Hi, I'm Eduardo Wanderley 👋
 
 <a href="https://github.com/eduardowanderleyde">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%C2%B7+AI+Engineer+%C2%B7+Robotics;Local-first+AI%2C+RAG+and+LLM+agents;Pipelines+with+Airflow+%2B+Spark;Tools+for+mobile+robots+(ROS+2)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%C2%B7+LLM+Agents+%26+RAG;Local-first+AI+with+Ollama;Data+pipelines+with+Airflow+%2B+Spark;Pipelines+with+Airflow+%2B+Spark;Tools+for+mobile+robots+(ROS+2)" alt="Typing SVG" />
 </a>
 
 <p>
@@ -21,12 +21,12 @@
 ```python
 class Eduardo:
     location   = "Recife, Brazil 🇧🇷"
-    role       = ["Data Engineer", "AI Engineer", "Robotics"]
+    role       = ["AI Engineer", "Data Engineer", "Robotics"]
     work       = "Data & automation @ Empetur (Government of Pernambuco)"
     education  = ["M.Sc. Computer Science — UFPE (2026)",
                   "Postgrad Robotics & AI — UFPE (2023)",
                   "B.Sc. Automation & Control Engineering — UPE (2021)"]
-    focus      = ["local-first AI (Ollama, RAG)", "data pipelines", "ROS 2 fleets"]
+    focus      = ["LLM agents & RAG", "local-first AI (Ollama)", "data pipelines", "ROS 2 fleets"]
     philosophy = "Ship end to end, on modest hardware, at near-zero cost."
 ```
 
